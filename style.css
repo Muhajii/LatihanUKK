@@ -1,0 +1,40 @@
+
+.col{
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    min-height: 120px;
+}
+
+.col h1{
+    margin: 0;
+}
+
+.cards{
+    text-align: center;
+    background-color: white;
+    
+}
+
+.isi{
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+  
+}
+
+table{
+    margin: 20px auto;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
